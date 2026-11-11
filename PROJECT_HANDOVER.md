@@ -283,10 +283,10 @@ The project requires the following environment variables (create `.env.local` fr
 CONTACT_EMAIL=contact@fetanads.com
 
 # ── SMTP (Nodemailer) ──────────────────────────────
-SMTP_HOST=smtp.hostinger.com
+SMTP_HOST=s8635.lon1.stableserver.net
 SMTP_PORT=465
 SMTP_USER=contact@fetanads.com
-SMTP_PASS=your_smtp_password
+SMTP_PASS=fetanfast@12
 SMTP_FROM_EMAIL="Fetan DOOH <contact@fetanads.com>"
 ```
 
